@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "iGKqaFX4C2coMRnIoENKwoblOQFASqtHzlr7c+6/j9MyqwoyWS6+Ha72zpPt0D1nAnuzbOfXDX39ziT8Tq4D7w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sam.gorbatov\\projects\\adventOfCode\\adventOfCode.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sam.gorbatov\\.nuget\\packages\\fsharp.core\\8.0.100\\fsharp.core.8.0.100.nupkg.sha512"
+  ],
+  "logs": []
+}
