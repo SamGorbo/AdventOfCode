@@ -27,3 +27,4 @@ C:\Users\sam.gorbatov\projects\adventOfCode\obj\Debug\net8.0\refint\adventOfCode
 C:\Users\sam.gorbatov\projects\adventOfCode\obj\Debug\net8.0\adventOfCode.pdb
 C:\Users\sam.gorbatov\projects\adventOfCode\obj\Debug\net8.0\adventOfCode.genruntimeconfig.cache
 C:\Users\sam.gorbatov\projects\adventOfCode\obj\Debug\net8.0\ref\adventOfCode.dll
+C:\Users\sam.gorbatov\projects\adventOfCode\obj\Debug\net8.0\adventOfCode.sourcelink.json

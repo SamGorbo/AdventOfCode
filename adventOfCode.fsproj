@@ -6,6 +6,9 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Include="2023/DayThree/DayThree.fs"/>
+    <Compile Include="2023/DayTwo/DayTwo.fs" />
+    <Compile Include="2023/DayOne/DayOne.fs" />
     <Compile Include="Program.fs" />
   </ItemGroup>
 
